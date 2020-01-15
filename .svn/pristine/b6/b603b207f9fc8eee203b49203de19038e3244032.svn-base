@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/main/resources/dbfh.properties=UTF-8
+encoding//src/main/resources/stencilset.json=UTF-8
+encoding//src/main/webapp=UTF-8
+encoding//src/main/webapp/activiti-editor/editor-app/i18n/en.json=UTF-8
+encoding/<project>=UTF-8
